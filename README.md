@@ -1,6 +1,8 @@
 # Rhythmbox-Lyric-File
 A Rhythmbox plugin that shows local .lrc files
 
+All this does is load the file and display it. It does not display lyrics synchronously.
+
 ### Installation
 Move or copy ```LyricFile.py``` and ```LyricFile.plugin``` into ```~/.local/share/rhythmbox/plugins.
 
