@@ -1,0 +1,8 @@
+[Plugin]
+Loader=python3
+Module=LyricFile
+IAge=2
+Name=LyricFile
+Description=Displays Lyric Files
+Authors=Toby A
+Website=https://github.com/Systree33/Rhythmbox-Lyric-File
