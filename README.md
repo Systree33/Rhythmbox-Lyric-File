@@ -15,4 +15,4 @@ The plugin looks for ```.lrc``` files in the same directory as the audio files.
 
 For example, if your song was in this directory: ```~/Music/Downloaded/Song.mp4```, then the plugin will look for ```~/Music/Downloaded/Song.lrc```
 
-I use this with spot dl, with ```spotdl <url> --lyrics genius --generate-lrc```, which downloads lyrics from genius and saves them as ```.lrc``` files in the same directory.
+This can be used with spot dl, with ```spotdl <url> --lyrics genius --generate-lrc```, which downloads lyrics from genius and saves them as ```.lrc``` files in the same directory.
