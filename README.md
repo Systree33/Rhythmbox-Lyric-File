@@ -6,7 +6,7 @@ All this does is load the file and display it. It does not display lyrics synchr
 ![Example](https://github.com/Systree33/Rhythmbox-Lyric-File/blob/main/Rhythmbox-Lyrics.png?raw=true)
 
 ### Installation
-Move or copy ```LyricFile.py``` and ```LyricFile.plugin``` into ```~/.local/share/rhythmbox/plugins.
+Move or copy ```LyricFile.py``` and ```LyricFile.plugin``` into ```~/.local/share/rhythmbox/plugins.```
 
 You may have to create the ```plugins``` directory.
 
